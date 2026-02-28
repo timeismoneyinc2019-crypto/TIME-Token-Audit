@@ -1,12 +1,17 @@
+# NEXORIAN SOVEREIGN LICENSE (NSL) v4.0
+# Copyright (c) 2026 Nexorian Corporation | Dennis Merritt
+# PROOF BEFORE TRUST | RULES BEFORE REASONING | DETERMINISM BEFORE AUTONOMY
+# Certified for V4 Deterministic Substrate Execution.
+
 ---
-title: "The TIME Token: Foundations of Thermodynamic Invariant Computation"
+title: "The TIME Token: Foundations of Deterministic Invariant Computation"
 author: "Dennis Merritt, Nexorian Corporation"
 date: "2026-02"
 ---
 
 ## 1. Introduction
 
-This whitepaper introduces a deterministic computational architecture termed the Thermodynamic Invariant Master Epoch (TIME) model. The system integrates nondeterministic large language models within a strictly bounded execution framework enforced by a deterministic kernel. AI-generated outputs possess proposal authority only and are subjected to a formal admissibility function that enforces algebraic invariants, schema constraints, and resource-bounded cost limits prior to state transition.
+This whitepaper introduces a deterministic computational architecture termed the Deterministic Invariant Master Epoch (TIME) model. The system integrates nondeterministic large language models within a strictly bounded execution framework enforced by a deterministic kernel. AI-generated outputs possess proposal authority only and are subjected to a formal admissibility function that enforces algebraic invariants, schema constraints, and resource-bounded cost limits prior to state transition.
 
 ## 2. The Sandbox Isolation Pattern 
 
@@ -18,13 +23,13 @@ The Nexorian Deterministic Kernel relies on hard separation of authority:
 (Proposal Engine → Admissibility Gate → Kernel → State)
 
 *   **Proposal Engine (P):** AI logic (Breeze) holds proposal authority only.
-*   **Admissibility Gate (A):** The gate verifies invariant preservation. 
+*   **Admissibility Gate (A): Regulator** The gate verifies invariant preservation. 
 *   **Kernel (K):** Hardware-level, deterministic execution authority.
 *   **Ledger State (S):** State transitions are hash-chained and invariant-preserving.
 
-## 3. Formal Thermodynamic Cost Bounds
+## 3. Formal Deterministic Cost Bounds
 
-The system operates on an absolute Thermodynamic Execution Model. All logic transitions are bounded by deterministic cost accounting.
+The system operates on an absolute Deterministic Execution Model. All logic transitions are bounded by deterministic cost accounting.
 
 Let:
 *   `|x|` = number of input bytes
