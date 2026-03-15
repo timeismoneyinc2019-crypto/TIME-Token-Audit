@@ -1,4 +1,4 @@
-# NEXORIAN SOVEREIGN LICENSE (NSL) v4.0
+# NEXORIAN Deterministic LICENSE (NSL) v4.0
 # Copyright (c) 2026 Nexorian Corporation | Dennis Merritt
 # PROOF BEFORE TRUST | RULES BEFORE REASONING | DETERMINISM BEFORE AUTONOMY
 # Certified for V4 Deterministic Substrate Execution.

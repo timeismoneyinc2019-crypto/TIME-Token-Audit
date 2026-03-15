@@ -1,4 +1,4 @@
-# NEXORIAN SOVEREIGN LICENSE (NSL) v4.0
+# NEXORIAN Deterministic LICENSE (NSL) v4.0
 # Copyright (c) 2026 Nexorian Corporation | Dennis Merritt
 # PROOF BEFORE TRUST | RULES BEFORE REASONING | DETERMINISM BEFORE AUTONOMY
 # Certified for V4 Deterministic Substrate Execution.
@@ -11,7 +11,8 @@ date: "2026-02"
 
 ## 1. Introduction
 
-This whitepaper introduces a deterministic computational architecture termed the Deterministic Invariant Master Epoch (TIME) model. The system integrates nondeterministic large language models within a strictly bounded execution framework enforced by a deterministic kernel. AI-generated outputs possess proposal authority only and are subjected to a formal admissibility function that enforces algebraic invariants, schema constraints, and resource-bounded cost limits prior to state transition.
+The **KronosCore** architecture introduces a deterministic computational framework termed the Deterministic Invariant Master Epoch (TIME) protocol. Developed by KronosCore, this system integrates nondeterministic large language models within a strictly bounded execution framework enforced by a deterministic kernel.
+ AI-generated outputs possess proposal authority only and are subjected to a formal admissibility function that enforces algebraic invariants, schema constraints, and resource-bounded cost limits prior to state transition.
 
 ## 2. The Sandbox Isolation Pattern 
 
@@ -42,6 +43,16 @@ Define deterministic cost:
 
 Where α, β, γ, δ ∈ ℝ⁺ are fixed constants defined at genesis.
 For epoch E with budget B_E, if `Σ C(tᵢ) > B_E`, no further transitions are admitted, and the system advances to the next epoch.
+
+## 4. Logarithmic Milestone Release (LMR)
+
+To maintain economic stability and protocol equilibrium, the **TIME** token follows a logarithmic liquidity scaling policy. Beyond the initial 25,000 TIME float, further allocation is released proportional to the growth of **Protocol Owned Liquidity (POL)**:
+
+*   **Milestone Alpha**: +1,000 POL → Release 45 TIME
+*   **Milestone Beta**: +10,000 POL → Release 450 TIME
+*   **Milestone Gamma**: +100,000 POL → Release 4,500 TIME
+
+This ensures that the computational resource token is always backed by sufficient systemic energy and liquidity, preventing inflationary drift.
 
 ## 4. Invariant Preservation Theorem
 

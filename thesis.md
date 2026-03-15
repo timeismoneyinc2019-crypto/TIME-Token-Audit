@@ -1,5 +1,11 @@
+# NEXORIAN DETERMINISTIC LICENSE (NDL) v4.0
+# Copyright (c) 2026 Nexorian Corporation | Dennis Merritt
+# PROOF BEFORE TRUST | RULES BEFORE REASONING | DETERMINISM BEFORE AUTONOMY
+# Certified for V4 Deterministic Substrate Execution.
+# Jurisdiction: NEXUS_GENESIS | North Dakota SOS #392372 00
+
 # THE NEXORIAN DETERMINISM THESIS
-## Sovereignty as a Mathematical Inevitability
+## Deterministicty as a Mathematical Inevitability
 
 **Author**: Dennis Merritt, Founder & Principal Architect, Nexorian Corporation
 **Date**: February 2026
@@ -10,11 +16,11 @@
 
 ### Abstract
 
-The current trajectory of "AI Autonomy" is a path toward stochastic collapse. Modern Large Language Models (LLMs) and probabilistic agentic frameworks lack a thermodynamic floor — they are systems of "best-guesses" operating in high-consequence environments.
+The current trajectory of "AI Autonomy" is a path toward stochastic collapse. Modern Large Language Models (LLMs) and probabilistic agentic frameworks lack a deterministic floor — they are systems of "best-guesses" operating in high-consequence environments.
 
-This thesis proposes a radical inversion: **Governance must be shifted from the application layer to the kernel layer.** If an action is not mathematically admissible within the defined Law Envelope, it must be physically impossible for the system to execute.
+**KronosCore** proposes a radical inversion: **Governance must be shifted from the application layer to the kernel layer.** If an action is not mathematically admissible within the defined Law Envelope, it must be physically impossible for the system to execute.
 
-The **Nexorian V4 architecture** introduces a novel **Deterministic Cost-Bounded Execution Substrate** anchored to the **Canonical Cost Calibration Layer (CCCL)** with a fixed **Public Calibration Constant (PCC = 1.0000)**. The **Standardized Cost Unit (SCU)** — a hardware-invariant metric calibrated against the `v4-Ref-Core` reference baseline — provides a globally auditable and reproducible unit for computational resource accounting. Key results include the enforcement of the **Efficiency Floor (η ≥ 0.95)** and integration of **Modelled Carbon Mapping** via the GAGI standard, providing a foundation for institutional auditability, AI governance, and standardized computational economics.
+The **KronosCore V4 architecture** introduces a novel **Deterministic Cost-Bounded Execution Substrate** anchored to the **TIME (Deterministic Invariant Master Epoch)** protocol. This system is governed by a fixed **Public Calibration Constant (PCC = 1.0000)**. The **Standardized Cost Unit (SCU)** — a hardware-invariant metric calibrated against the `v4-Ref-Core` reference baseline — provides a globally auditable and reproducible unit for computational resource accounting. Key results include the enforcement of the **Efficiency Floor (η ≥ 0.95)** and integration of **Modelled Carbon Mapping** via the GAGI standard, providing a foundation for institutional auditability, AI governance, and standardized computational economics.
 
 **Keywords:** Deterministic Execution, Cost Calibration, SCU, PCC, Computational Integrity, V4 Substrate, Law Envelope, Institutional Governance.
 
@@ -22,7 +28,7 @@ The **Nexorian V4 architecture** introduces a novel **Deterministic Cost-Bounded
 
 ### I. The Stochastic Fallacy
 
-We have mistaken "Reasoning" for "Computation." True computation is deterministic — identical inputs into an identical state must produce identical outputs without drift. Modern AI introduces entropy. This entropy, while useful for creative synthesis, is fatal for systemic governance.
+We have mistaken "Reasoning" for "Computation." True computation is deterministic — identical inputs into an identical state must produce identical outputs without drift. Modern AI introduces execution. This execution, while useful for creative synthesis, is fatal for systemic governance.
 
 We cannot "ask" an AI to be safe. We must mathematically ensure it **cannot** be otherwise.
 
@@ -66,13 +72,13 @@ The CCCL is what separates Nexorian from speculative "AI governance" frameworks:
 
 ---
 
-### IV. Sovereignty & The Offline Anchor
+### IV. Deterministicty & The Offline Anchor
 
-True sovereignty is not found in the cloud. It is found in the physical hardware.
+True Deterministicty is not found in the cloud. It is found in the physical hardware.
 
 The Nexorian TIME Kernel is designed for **Hostile Environment Verification**. It does not require a connection to a central authority to verify its own integrity. It is an immutable engine of truth, anchored to Hardware-ID parity and the SHA3-chained ledger — verifiable by any auditor with access to the genesis receipt.
 
-This is the **Nexorian Sovereign Guarantee**: a system that can prove its own determinism without asking anyone to trust it.
+This is the **Nexorian Deterministic Guarantee**: a system that can prove its own determinism without asking anyone to trust it.
 
 ---
 
@@ -103,6 +109,12 @@ Nexorian is the floor.
 
 ---
 
-*Verified for Public Release by Nexorian Governance Board — V4.1 Institutional Standard*
+### VII. Corporate Identity
+
+**KronosCore** serves as the institutional architect and governing entity for the TIME protocol ecosystem. All system invariants, cost-calibrations, and state-transitions are administered under the KronosCore mandate to ensure absolute systemic integrity.
+
+---
+
+*Verified for Public Release by KronosCore Governance Board — V4.1 Institutional Standard*
 *© 2026 Nexorian Corporation. All rights reserved.*
 *Dennis Merritt | Dennis.Merritt@Nexorian.org*
